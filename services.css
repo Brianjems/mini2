@@ -148,7 +148,7 @@ header.shadow .navbar li {
 .navbar a {
     font-size: 1rem;
     font-weight: 500;
-    color: black;
+    color: rgb(82, 80, 80);
 }
 .navbar li::after {
     content: '';

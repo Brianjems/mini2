@@ -143,18 +143,18 @@ header.shadow .navbar li {
 .navbar li {
     position: relative;
     cursor: pointer;
-    color: black;
+    color: rgb(75, 73, 73);
 }
 .navbar a {
     font-size: 1rem;
     font-weight: 500;
-    color: black;
+    color: rgb(82, 80, 80);
 }
 .navbar li::after {
     content: '';
     width: 0;
     height: 2px;
-    background: gray;
+    background: white;
     position: absolute;
     bottom: -4px;
     left: 0;
